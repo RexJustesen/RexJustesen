@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RexJustesen
+- 👋 Hi, I’m RexJustesen
 - 👀 I’m interested in Machine learning and AI
 - 🌱 I’m currently learning for data science projects
 - 💞️ I’m looking to collaborate on all types of projects, I am curious about many things
